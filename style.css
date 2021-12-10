@@ -93,6 +93,21 @@ body{
     display:flex;
     color:white;
 }
-
+.experiencewrapper{
+    display:flex;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.work1{
+    border:solid black 10px;
+    margin-right:50px;
+    background-color: green;
+    color:white;
+}
+.work2{
+    border:solid black 10px;
+    background-color: green;
+    color:white;
+}
 
 
