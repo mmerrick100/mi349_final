@@ -1,0 +1,32 @@
+*{
+    font-family: "Poppins",sans-serif;
+}
+
+body{
+    margin:auto;
+    box-sizing: border-box;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+}
+.header-container h1{
+    margin:20px;
+    c
+}
+.logo{
+    color: white;
+}
+.navlinks{
+    list-style: none;
+    display: inline-flex;
+    margin-top: 50px;
+}
+.navlinks li{
+    padding:0px 150px;
+}
+.navlinks a{
+    color:white;
+    text-decoration: none;
+}
